@@ -1,5 +1,13 @@
-### Hi there 👋
+## 👻 Hi I'm Yoonseo. 👻 
 
+### **Hi I'm 👽**
+<h5> 💡 매일 성장하는 사람이 되고 싶습니다. 매일 아침 스터디 플래너를 작성하면서 계획을 세우고 지키고, 일기를 쓰며 제 자신을 성찰합니다.💪 <h5>
+<h5> 📖 "책이 없는 집은 영혼이 없는 몸과 같다." 라는 말을 항상 되새기며 집에 책을 채우고 있습니다.😎 <h5>
+<h5> 🍎 가독성, 깔끔한 구조를 가진 코드를 쓰는 것을 중요하게 생각합니다.👀 <h5>
+
+### **Yoonseo 👾**
+- **Instagram.** [yyun._.xeo](https://www.instagram.com/yyun._.xeo/)
+- **Vlog.** [chiiii](https://blog.naver.com/chiiii_)
 <!--
 **uuuunseo/uuuunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
