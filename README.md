@@ -6,7 +6,7 @@
 <h5> 🍎 가독성, 깔끔한 구조를 가진 코드를 쓰는 것을 중요하게 생각합니다.👀 <h5>
 
 ### **Yoonseo 👾**
-- **Instagram.** [yyun._.xeo](https://www.instagram.com/yuuns_it/)
+- **Instagram.** [yuuns_it](https://www.instagram.com/yuuns_it/)
 - **Vlog.** [chiiii](https://blog.naver.com/chiiii_)
 <!--
 **uuuunseo/uuuunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
