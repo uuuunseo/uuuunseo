@@ -7,7 +7,6 @@
 
 ### **Yoonseo 👾**
 - **Instagram.** [yuuns_it](https://www.instagram.com/yuuns_it/)
-- **Vlog.** [chiiii](https://blog.naver.com/chiiii_)
 <!--
 **uuuunseo/uuuunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
